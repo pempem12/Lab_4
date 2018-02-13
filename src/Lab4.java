@@ -10,7 +10,7 @@ public class Lab4 {
         String input;
         int inputLength;
 
-
+   // I am human
         char a = 'a';
         char A = 'A';
         char b = 'b';
